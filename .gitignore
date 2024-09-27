@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+/dist/
+/.idea/
+**/playwright-report/index.html
+/playwright-report/
+/test-results/
+**/.svelte-kit
